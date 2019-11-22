@@ -1,5 +1,7 @@
 <aura:component>
 
     var t = 1;
-    
+
+    var n = 2;
+
 </aura:component>	
